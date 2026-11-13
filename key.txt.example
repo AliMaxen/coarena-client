@@ -1,0 +1,4 @@
+# Copy this file to key.txt and replace the placeholders with real keys.
+# One Coarena API key per line. Keep key.txt private (chmod 600 key.txt).
+coa_REPLACE_WITH_YOUR_API_KEY
+# coa_OPTIONAL_SECOND_API_KEY
